@@ -30,7 +30,6 @@ function containsDoubleLetter(str) {
     if (str[i] === str[i + 1]) {
       return true;
     }
-
   }
   return false;
 }
